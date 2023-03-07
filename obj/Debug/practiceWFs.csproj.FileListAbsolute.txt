@@ -6,3 +6,12 @@ C:\Users\USER\AppData\Local\Temporary Projects\practiceWFs\obj\Debug\practiceWFs
 C:\Users\USER\AppData\Local\Temporary Projects\practiceWFs\obj\Debug\practiceWFs.csproj.GenerateResource.Cache
 C:\Users\USER\AppData\Local\Temporary Projects\practiceWFs\obj\Debug\practiceWFs.exe
 C:\Users\USER\AppData\Local\Temporary Projects\practiceWFs\obj\Debug\practiceWFs.pdb
+C:\dev\PracticeWFs\obj\Debug\practiceWFs.exe
+C:\dev\PracticeWFs\obj\Debug\practiceWFs.pdb
+C:\dev\PracticeWFs\bin\Debug\practiceWFs.exe
+C:\dev\PracticeWFs\bin\Debug\practiceWFs.pdb
+C:\dev\PracticeWFs\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\PracticeWFs\obj\Debug\practiceWFs.Form1.resources
+C:\dev\PracticeWFs\obj\Debug\practiceWFs.Form2.resources
+C:\dev\PracticeWFs\obj\Debug\practiceWFs.Properties.Resources.resources
+C:\dev\PracticeWFs\obj\Debug\practiceWFs.csproj.GenerateResource.Cache

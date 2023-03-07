@@ -1,0 +1,9 @@
+C:\dev\PracticeWFs\bin\Release\practiceWFs.exe
+C:\dev\PracticeWFs\bin\Release\practiceWFs.pdb
+C:\dev\PracticeWFs\obj\Release\ResolveAssemblyReference.cache
+C:\dev\PracticeWFs\obj\Release\practiceWFs.Form1.resources
+C:\dev\PracticeWFs\obj\Release\practiceWFs.Form2.resources
+C:\dev\PracticeWFs\obj\Release\practiceWFs.Properties.Resources.resources
+C:\dev\PracticeWFs\obj\Release\practiceWFs.csproj.GenerateResource.Cache
+C:\dev\PracticeWFs\obj\Release\practiceWFs.exe
+C:\dev\PracticeWFs\obj\Release\practiceWFs.pdb

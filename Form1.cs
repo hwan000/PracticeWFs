@@ -42,5 +42,12 @@ namespace practiceWFs
 
             label1.Text = plusText.ToString();
         }
+
+        private void moveToForm2ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Visible = false;
+            Form2 showForm2 = new Form2();
+            showForm2.ShowDialog();
+        }
     }
 }
