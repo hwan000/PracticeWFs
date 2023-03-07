@@ -15,3 +15,12 @@ C:\dev\PracticeWFs\obj\Debug\practiceWFs.Form1.resources
 C:\dev\PracticeWFs\obj\Debug\practiceWFs.Form2.resources
 C:\dev\PracticeWFs\obj\Debug\practiceWFs.Properties.Resources.resources
 C:\dev\PracticeWFs\obj\Debug\practiceWFs.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2008\Projects\PracticeWFs\bin\Debug\practiceWFs.exe
+C:\Users\USER\Documents\Visual Studio 2008\Projects\PracticeWFs\bin\Debug\practiceWFs.pdb
+C:\Users\USER\Documents\Visual Studio 2008\Projects\PracticeWFs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2008\Projects\PracticeWFs\obj\Debug\practiceWFs.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\PracticeWFs\obj\Debug\practiceWFs.Form2.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\PracticeWFs\obj\Debug\practiceWFs.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\PracticeWFs\obj\Debug\practiceWFs.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2008\Projects\PracticeWFs\obj\Debug\practiceWFs.exe
+C:\Users\USER\Documents\Visual Studio 2008\Projects\PracticeWFs\obj\Debug\practiceWFs.pdb

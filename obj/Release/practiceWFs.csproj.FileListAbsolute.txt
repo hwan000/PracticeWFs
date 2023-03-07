@@ -7,3 +7,12 @@ C:\dev\PracticeWFs\obj\Release\practiceWFs.Properties.Resources.resources
 C:\dev\PracticeWFs\obj\Release\practiceWFs.csproj.GenerateResource.Cache
 C:\dev\PracticeWFs\obj\Release\practiceWFs.exe
 C:\dev\PracticeWFs\obj\Release\practiceWFs.pdb
+C:\Users\USER\Documents\Visual Studio 2008\Projects\PracticeWFs\obj\Release\practiceWFs.exe
+C:\Users\USER\Documents\Visual Studio 2008\Projects\PracticeWFs\obj\Release\practiceWFs.pdb
+C:\Users\USER\Documents\Visual Studio 2008\Projects\PracticeWFs\bin\Release\practiceWFs.exe
+C:\Users\USER\Documents\Visual Studio 2008\Projects\PracticeWFs\bin\Release\practiceWFs.pdb
+C:\Users\USER\Documents\Visual Studio 2008\Projects\PracticeWFs\obj\Release\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2008\Projects\PracticeWFs\obj\Release\practiceWFs.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\PracticeWFs\obj\Release\practiceWFs.Form2.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\PracticeWFs\obj\Release\practiceWFs.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\PracticeWFs\obj\Release\practiceWFs.csproj.GenerateResource.Cache
